@@ -1,2 +1,2 @@
 # dio-bootcamp-fullstack
-Repositório criado para o boot da DIO
+Repositório criado para o bootcamp da DIO
